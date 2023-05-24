@@ -1,5 +1,5 @@
 # DungeonCrawler
-Text-based dungeonCrawlerGame that I made in Java. An Application that will be displayed on the IDE-console. Where the goal is to find the magical weapon with the use of commands.
+visually Text-based dungeonCrawlerGame that I made in Java. An Application that will be displayed on the IDE-console. Where the goal is to find the magical weapon with the use of commands.
 The goals is to find the magical item and to retrieve it back to the starting room :D Have Fun noble adventurer!
 
 List of helpful commands:
